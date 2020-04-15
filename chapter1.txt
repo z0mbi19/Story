@@ -1,0 +1,5 @@
+API = Application Programming Interfaces
+
+A interface de programação de aplicativos (api) e uma serie de 
+comandos, funções, protocolos e objetos que programadores poodem
+usar para criar sistema ou interações com sistemas externos
