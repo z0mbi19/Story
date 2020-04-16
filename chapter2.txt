@@ -1,0 +1,1 @@
+Endpoint e quando a api termina a sua comunicação com o outro sistema e como se fosse o ponto que a api toca no seu sistema
